@@ -9,7 +9,7 @@ Project performs API Performance Testing of API's provided at [reqres.in](https:
 
 ## Installation
 
-Download the project from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it. Start JMeter and open the .jmx file.
+Download the project from [Github](https://github.com/rathorsunpreet/Reqres-API) and unzip it. Start JMeter and open the .jmx file.
 
 ## Usage
 Click on Run to execute all tests.
