@@ -7,6 +7,8 @@ Project performs API Performance Testing of API's provided at [reqres.in](https:
 * Individual and Group __Result Tree__ allowing results to be viewed per API request or for the whole group.
 * API requests grouped by HTTP Methods. 
 
+Demo: https://www.youtube.com/watch?v=ZmtPn8FZk0k
+
 ## Installation
 
 Download the project from [Github](https://github.com/rathorsunpreet/Reqres-API) and unzip it. Start JMeter and open the .jmx file.
